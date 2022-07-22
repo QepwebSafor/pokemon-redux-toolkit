@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pokemon-redux-toolkit/static/css/main.bc1cd094.css",
+    "main.js": "/pokemon-redux-toolkit/static/js/main.e912e465.js",
+    "static/media/logo.svg": "/pokemon-redux-toolkit/static/media/logo.0905522d6d18ceaafa60a31e87c99e88.svg",
+    "index.html": "/pokemon-redux-toolkit/index.html",
+    "main.bc1cd094.css.map": "/pokemon-redux-toolkit/static/css/main.bc1cd094.css.map",
+    "main.e912e465.js.map": "/pokemon-redux-toolkit/static/js/main.e912e465.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc1cd094.css",
+    "static/js/main.e912e465.js"
+  ]
+}
