@@ -2,6 +2,10 @@
   "name": "pokemon-redux-toolkit",
   "version": "0.1.0",
   "private": true,
+    "author": {
+    "name": "Quica Espi Puig",
+    "email": "qepsaforweb@gmail.com"
+  },
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@reduxjs/toolkit": "^1.8.3",
